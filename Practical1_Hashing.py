@@ -5,7 +5,7 @@
 # Make use of two collision handling techniques and compare them using number of comparisons required to find a set of telephone numbers.
  
 
-INPUT:
+#INPUT:
 
 class hashtable:
 	def __init__(self): //constructor of the hashtable class
